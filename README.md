@@ -1,7 +1,8 @@
 # fin-algo
 
-#Beginner Notebooks for Learning:
-#Python Data Structures 
-#Basic ML and Algo Creation
+#Beginner Notebooks from Online Courses
+#Basic Python Data Structures 
+#Beginner ML and Algo Creation
 #Statistical & Financial Analysis
-Tools &amp; Notebooks for FinanceTrading ML
+#Tools &amp; Notebooks for Finance, Trading, & ML
+
